@@ -1,0 +1,35 @@
+_repo: The-Great-War-of-189-_57707
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Colomb, P.
+    gutenberg_agent_id: '49544'
+    url: http://www.gutenberg.org/2009/agents/49544
+  - agent_name: Maurice, J. F.
+    gutenberg_agent_id: '49545'
+    url: http://www.gutenberg.org/2009/agents/49545
+  - agent_name: Maude, F. N.
+    gutenberg_agent_id: '49546'
+    url: http://www.gutenberg.org/2009/agents/49546
+  - agent_name: Forbes, Archibald
+    birthdate: 1838
+    deathdate: 1900
+    gutenberg_agent_id: '2739'
+    url: http://www.gutenberg.org/2009/agents/2739
+    wikipedia: http://en.wikipedia.org/wiki/Archibald_Forbes
+  - agent_name: Lowe, Charles P.
+    gutenberg_agent_id: '3438'
+    url: http://www.gutenberg.org/2009/agents/3438
+description: ''
+gutenberg_issued: '2018-08-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57707'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Great War of 189-
+url: http://www.gutenberg.org/ebooks/57707
