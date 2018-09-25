@@ -1,5 +1,8 @@
 _repo: The-Great-War-of-189-_57707
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57707-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Colomb, P.
@@ -21,6 +24,8 @@ creator:
     gutenberg_agent_id: '3438'
     url: http://www.gutenberg.org/2009/agents/3438
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57707#The-Great-War-of-189-
 gutenberg_issued: '2018-08-16'
 gutenberg_type: Text
 identifiers:
